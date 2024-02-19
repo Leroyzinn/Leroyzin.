@@ -1,0 +1,36 @@
+Coloque 1 de cada vez no termux, sempre que aparece [y/n] sempre digita y e da enter
+===========================================
+
+
+
+[1].  termux-setup-storage
+
+[2].  pkg upgrade
+
+[3].  pkg update  
+
+[4].  pkg install nodejs  
+
+[5].  pkg install nodejs-lts  
+
+[6].  pkg install git  
+
+[7].  pkg install ffmpeg
+
+[8].  cd /sdcard/sandro-bot
+
+[9].  sh start.sh
+
+e isso 👀
+
+
+@Sandro👑
+
+por favor divulga meu canal no YouTube ♥️ logo logo vou trazer um bot 100% editável com todos os comandos dos bots criptografado por exemplo a sakura bot etc
+vai ficar foda♥️♥️♥️♥️♥️
+
+qual quer dúvida me chama no pv zap
+
+553172595934
+
+obrigado por usar meu bot♥️
